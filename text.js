@@ -1,3 +1,5 @@
+//THIS IS JUST THE DUMMY JAVASCRIPT FILE FOR SPEECH SYNTHESIS ..
+// THE MAIN FILE IS INSIDE THE JS FOLDER..
 var synth = window.speechSynthesis;
 
 var inputForm = document.querySelector('form');
