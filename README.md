@@ -1,3 +1,4 @@
 # TEXT-N-SPEECH
 Small project with the help of javascript and speechsynthesis web api.
-Try it out
+TRY IT OUT!
+Making this project is really fun for me
